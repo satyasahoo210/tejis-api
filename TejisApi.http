@@ -1,0 +1,6 @@
+@TejisApi_HostAddress = http://localhost:5224
+
+GET {{TejisApi_HostAddress}}/Programs/
+Accept: application/json
+
+###
